@@ -280,6 +280,15 @@ Wallpaper cycling order.
 | `"sequential"` | Alphabetical order. |
 | `"shuffle"` | Random order. |
 
+## DaemonEnabled {#daemon-enabled}
+
+Wheather a daemon starts on startup.
+
+| Value | Meaning |
+|---|---|
+| `true` | The daemon starts on startup. |
+| `false` | The daemon doesn't start. |
+
 ## DisplayMode {#display-mode}
 
 What identifies a workspace in the UI.
